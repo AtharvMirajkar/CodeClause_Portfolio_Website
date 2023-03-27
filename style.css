@@ -189,11 +189,6 @@ b {
 }
 
 
-
-
-
-/* /////////////////////////////// */
-
 .heading {
   text-align: center;
   animation: slideRight 1s ease forwards;
@@ -392,8 +387,6 @@ form textarea {
 
 
 
-/* ////////////// */
-
 
 /* Key Frames Animations  */
 
@@ -485,7 +478,6 @@ form textarea {
 
 
 
-
 /* /////////Making Responsive////////// */
 
 @media only screen and (max-width:800px) {
@@ -520,7 +512,6 @@ form textarea {
     display: initial;
     color: #3d535f;
   }
-
   
   .home-content{
     margin-top: 40%;
@@ -528,7 +519,6 @@ form textarea {
   }
 
 }
-
 
 
 
@@ -579,9 +569,7 @@ form textarea {
 
 .services-box{
   margin-left: 25px;
-
 }
-
 
 }
 
